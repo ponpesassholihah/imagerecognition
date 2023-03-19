@@ -1,6 +1,8 @@
 # Nama Yazid Irfan (20220039)
 # Image Recognition
 
+langkah-langkah membuat image recognition :
+
 1. install dlib
 
 2. install opencv
