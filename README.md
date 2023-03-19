@@ -1,4 +1,4 @@
-# faceRecognition
+# ImageRecognition
 
 install dlib
 
