@@ -1,4 +1,5 @@
-# ImageRecognition
+#Nama_Yazid_Irfan_(20220039) 
+#ImageRecognition
 
 install dlib
 
