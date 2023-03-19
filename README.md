@@ -1,19 +1,19 @@
-# Nama Yazid Irfan(20220039)
-# ImageRecognition
+# Nama Yazid Irfan (20220039)
+# Image Recognition
 
-install dlib
+1. install dlib
 
-install opencv
+2. install opencv
 
-install face_recognition
+3. install face_recognition
 
-install numpy
+4. install numpy
 
 
-crate data.csv
+5. crate data.csv
 
-load image in absensi folder
+6. load image in absensi folder
 
-buat file data.csv
-buat folder absensi untuk mengisi wajah
-jalankan code.
+7. buat file data.csv
+8. buat folder absensi untuk mengisi wajah
+9. jalankan code.
